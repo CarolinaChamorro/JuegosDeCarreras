@@ -1,0 +1,110 @@
+{
+    "1":{
+        "P":"¿A qué cantante se le conoce como El Sol de México?",
+        "R":[
+            {"1":"Luis Miguel","valor":true},
+            {"2":"Marc Anthony","valor":false},
+            {"3":"Marco Antonio Solis","valor":false},
+            {"4":"Juan Gabriel","valor":false}
+        ]
+    },
+    "2":{
+        "P":"¿Cuántas cuerdas tiene un violín?",
+        "R":[
+            {"1":"6","valor":false},
+            {"2":"3","valor":false},
+            {"3":"5","valor":false},
+            {"4":"4","valor":true}
+        ]
+    },
+    "3":{
+        "P":"¿De quien es la famosa canción Havanna?",
+        "R":[
+            {"1":"Katty Perry","valor":false},
+            {"2":"Lady Gaga","valor":false},
+            {"3":"Miley Cyrus","valor":false},
+            {"4":"Camila Cabello","valor":true}
+        ]
+    },"4":{
+        "P":"¿Qué cantante española tiene en su haber el mayor número de Grammy latinos por un solo trabajo?",
+        "R":[
+            {"1":"Becky G","valor":false},
+            {"2":"Rosalía","valor":true},
+            {"3":"Karol G","valor":false},
+            {"4":"Natty Natasha","valor":false}
+        ]
+    },
+    "5":{
+        "P":"¿Que nacionalidad comparten los músicos Fito Paez, Andrés Calamaro, Diego Torres y Fabiana Cantilo?",
+        "R":[
+            {"1":"Chilenos","valor":false},
+            {"2":"Colombianos","valor":false},
+            {"3":"Argentinos","valor":true},
+            {"4":"Mexicanos","valor":false}
+        ]
+    },
+    "6":{
+        "P":"¿De que nacionalidad era la cantante Selena Quintanilla?",
+        "R":[
+            {"1":"Mexicana","valor":true},
+            {"2":"Estadounidense","valor":false},
+            {"3":"Peruana","valor":false},
+            {"4":"Venezolana","valor":false}
+        ]
+    },
+    "7":{
+        "P":"¿Que canción hizo popular a Alan Walker?",
+        "R":[
+            {"1":"Alone","valor":false},
+            {"2":"Fade","valor":false},
+            {"3":"Sing me to sleep","valor":false},
+            {"4":"Faded","valor":true}
+        ]
+    },
+    "8":{
+        "P":"¿Que cantante fue la ex-novia de Justin Bieber?",
+        "R":[
+            {"1":"Ally Brooke","valor":false},
+            {"2":"Demy Lovato","valor":false},
+            {"3":"Selena Gómez","valor":true},
+            {"4":"Kendall Jenner","valor":false}
+        ]
+    },
+    "9":{
+        "P":"¿Quien es la actual pareja de Camila cabello?",
+        "R":[
+            {"1":"Shawn Mendes","valor":true},
+            {"2":"Austin Mahone","valor":false},
+            {"3":"Lauren Jauregui","valor":false},
+            {"4":"Dylan Sprouse","valor":false}
+        ]
+    },
+    "10":{
+        "P":"¿Qué integrante de la girlBand Fifth Harmony dejó el grupo?",
+        "R":[
+            {"1":"Normani Kordei","valor":false},
+            {"2":"Camila Cabello","valor":true},
+            {"3":"Lauren Jauregui","valor":false},
+            {"4":"Dinah Jane","valor":false}
+        ]
+    },
+    "11":{
+        "P":"¿Quienes cantan la canción despacito?",
+        "R":[
+            {"1":"Reik-JBalvin-Lalo Ebratt","valor":false},
+            {"2":"Manuel turizo-Morat","valor":false},
+            {"3":"Luis Fonsi-Daddy Yankee","valor":true},
+            {"4":"Piso 21-Camilo","valor":false}
+        ]
+    },
+    "12":{
+        "P":"¿De que género proviene el Pop?",
+        "R":[
+            {"1":"Reggaeton","valor":false},
+            {"2":"Rock & Roll","valor":true},
+            {"3":"Opera","valor":false},
+            {"4":"Rap","valor":false}
+        ]
+    }
+    
+}
