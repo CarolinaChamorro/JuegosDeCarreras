@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="stylesheet" href="CSS/estilo.css">
+    <title>Juego de Carreras</title>
+</head>
+
+<body>
+    <div class="container">
+        <div class="titulo">
+            <h1>JUEGO DE CARRERAS</h1>
+        </div>
+        <div class="dadoJugar">
+            <div class="dados">
+                <h2>Tirar dados</h2>
+                <div id="img">
+                    <img src="img/dados.jpg" alt="uno" id="imagenDado">
+                </div>
+                <button id="click" onclick="dada.lanzar()">Jugar</button>
+            </div>
+        </div>
+        <div class="carrera">
+            <P>PISTA DE CARRERAS</P>
+            <div class="pista">
+                <div id="A">
+                    <img src="img/auto1.png " class="img" id="a1A">
+                    <img src="img/auto2.png" class="img" id="a2A"></div>
+                <div id="B"><img id="a1B" class="img" style="visibility: hidden;" src="img/auto1.png ">
+                    <img id="a2B" class="img" style="visibility: hidden;"src="img/auto2.png"></div>
+                <div id="C"><img id="a1C" class="img" style="visibility: hidden;"src="img/auto1.png ">
+                    <img id="a2C" class="img" style="visibility: hidden;"src="img/auto2.png"></div>
+                <div id="D"><img id="a1D" class="img" style="visibility: hidden;"src="img/auto1.png ">
+                    <img id="a2D" class="img" style="visibility: hidden;"src="img/auto2.png"></div>
+                <div id="E"><img id="a1E" class="img" style="visibility: hidden;" src="img/auto1.png ">
+                    <img id="a2E" class="img" style="visibility: hidden;"src="img/auto2.png"></div>
+                <div id="F"><img id="a1F" class="img" style="visibility: hidden;" src="img/auto1.png ">
+                    <img id="a2F" class="img" style="visibility: hidden;"src="img/auto2.png"></div>
+                <div id="G"><img id="a1G" class="img" style="visibility: hidden;"src="img/auto1.png ">
+                    <img id="a2G" class="img" style="visibility: hidden;"src="img/auto2.png"></div>
+                <div id="H"><img id="a1H" class="img" style="visibility: hidden;"src="img/auto1.png ">
+                    <img id="a2H" class="img" style="visibility: hidden;"src="img/auto2.png"></div>
+                <div id="I"><img id="a1I" class="img" style="visibility: hidden;"src="img/auto1.png ">
+                    <img id="a2I" class="img" style="visibility: hidden;"src="img/auto2.png"></div>
+                <div id="J"><img id="a1J" class="img" style="visibility: hidden;"src="img/auto1.png ">
+                    <img id="a2J" class="img" style="visibility: hidden;"src="img/auto2.png"></div>
+                <div id="K">
+                    <img id="a1K" class="img" style="visibility: hidden;"src="img/auto1.png ">
+                    <img id="a2K" class="img" style="visibility: hidden;"src="img/auto2.png">Finish</div>
+            </div>
+        </div>
+        <div class="footer">
+            <label id="pregunta"></label>
+            <div class="unir" style="visibility: hidden;" id="botones">
+                <input type="button" id="a"></input>
+                <input type="button" id="b"></input>
+                <input type="button" id="c"></input>
+                <input type="button" id="d"></input>
+            </div>
+            <label id="respPregunta"></label>
+        </div>
+</body>
+<script src="JS/main.js"></script>
+
+</html>
